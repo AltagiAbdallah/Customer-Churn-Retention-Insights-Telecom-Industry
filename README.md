@@ -25,6 +25,9 @@ The analysis uses a dataset with **21 columns and 7,043 records**. The data is c
 ---
 
 ## 3. Executive Summary
+
+![Executive Dashboard Overview](Executive%20Dashboard%20Overview.png)
+
 ### Key Metrics
 * **Total Customers:** 7,043
 * **Churn Rate:** 26.54% (~1 in 4 customers)
